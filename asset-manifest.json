@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9fb9b03f.chunk.css",
+    "main.js": "/static/js/main.3b95bae1.chunk.js",
+    "main.js.map": "/static/js/main.3b95bae1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.63078482.js",
+    "runtime-main.js.map": "/static/js/runtime-main.63078482.js.map",
+    "static/css/2.86fbdad3.chunk.css": "/static/css/2.86fbdad3.chunk.css",
+    "static/js/2.f3e4fa16.chunk.js": "/static/js/2.f3e4fa16.chunk.js",
+    "static/js/2.f3e4fa16.chunk.js.map": "/static/js/2.f3e4fa16.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.86fbdad3.chunk.css.map": "/static/css/2.86fbdad3.chunk.css.map",
+    "static/css/main.9fb9b03f.chunk.css.map": "/static/css/main.9fb9b03f.chunk.css.map",
+    "static/js/2.f3e4fa16.chunk.js.LICENSE.txt": "/static/js/2.f3e4fa16.chunk.js.LICENSE.txt",
+    "static/media/BudgetTracker.8869a9bb.png": "/static/media/BudgetTracker.8869a9bb.png",
+    "static/media/FitnessTracker.159ae55c.png": "/static/media/FitnessTracker.159ae55c.png",
+    "static/media/Mohammed.a76055ee.jpg": "/static/media/Mohammed.a76055ee.jpg",
+    "static/media/NoteTaker.ab9f506a.png": "/static/media/NoteTaker.ab9f506a.png",
+    "static/media/UserDirectory.514405a4.png": "/static/media/UserDirectory.514405a4.png",
+    "static/media/Weather.bb4fb051.png": "/static/media/Weather.bb4fb051.png",
+    "static/media/arrow.e0c22288.gif": "/static/media/arrow.e0c22288.gif",
+    "static/media/demo.b25eb83f.gif": "/static/media/demo.b25eb83f.gif",
+    "static/media/github.8d1ebfd7.gif": "/static/media/github.8d1ebfd7.gif",
+    "static/media/table.b816fae7.png": "/static/media/table.b816fae7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.63078482.js",
+    "static/css/2.86fbdad3.chunk.css",
+    "static/js/2.f3e4fa16.chunk.js",
+    "static/css/main.9fb9b03f.chunk.css",
+    "static/js/main.3b95bae1.chunk.js"
+  ]
+}
