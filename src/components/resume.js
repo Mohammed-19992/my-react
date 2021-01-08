@@ -1,5 +1,3 @@
-// Importing libraries
-
 import React, { Component } from 'react';
 import './resume.css';
 import arrow from './arrow.gif';
